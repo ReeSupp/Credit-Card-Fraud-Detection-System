@@ -10,6 +10,6 @@ Feature Engineering: Analyze transaction features to create meaningful predictor
 
 Modeling: Implement logistic regression to classify transactions as fraudulent or non-fraudulent.
 
-Evaluation: Assess model performance using metrics like accuracy, precision, recall, and AUC-ROC.
+Evaluation: Assess model performance using metrics like accuracy, precision, recall.
 
 Outcome: Build a reliable fraud detection model and understand key factors contributing to fraudulent activity.
